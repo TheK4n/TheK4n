@@ -1,7 +1,7 @@
 ## GitHub ноунейм питониста 🔷
 
 ### Ссылки:
-- 💬 [Telegram](tg:Pend0s)
+- 💬 [Telegram](tg://resolve?domain=Pend0s)
 - ✉️ [Email](mailto:netupoka@mail.cocroach)
 
 
