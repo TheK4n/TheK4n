@@ -2,6 +2,6 @@
 
 ### Ссылки:
 - 💬 [Telegram](https://T.me/Pend0s)
-- ✉️ [Email](mailto:netupoka@mail.cocroach)
+- ✉️ [Email](mailto:djvlad967891@gmail.com)
 
 
