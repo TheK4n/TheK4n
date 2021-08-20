@@ -23,5 +23,5 @@
 
 <p>
   <h3>Links:</h3>
-  <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-Pendos-5194f0?style=flat-square&logo=Telegram" /></a>
+  <a href="https://t.me/pend0s"><img src="https://img.shields.io/badge/-Pendos-5194f0?style=flat-square&logo=Telegram" /></a>
 </p>
