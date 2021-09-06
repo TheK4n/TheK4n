@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
-
+![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ### 📈 GitHub Stats
 
