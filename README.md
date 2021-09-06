@@ -19,7 +19,6 @@
 </table>
 </p>
 
-<br />
 
 <p>
   <h3>Links:</h3>
