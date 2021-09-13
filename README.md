@@ -8,6 +8,12 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=5194f0&bgcolor=110d17)
 
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=grey&bgcolor=0)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=grey&bgcolor=110d17)
+![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=grey&bgcolor=110d17)
+
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -20,8 +26,14 @@
 </p>
 
 
+
+### 💲 Donate
+
+<a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
+
+
 <p>
-  <h3>Links:</h3>
-  <a href="https://t.me/pend0s"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram" /></a>
-  <a href="mailto:djvlad967891@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail" /></a>
+  <h3>📞 Contact</h3>
+  <a href="https://t.me/pend0s"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
+  <a href="mailto:djvlad967891@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail&color=grey" /></a>
 </p>
