@@ -35,5 +35,5 @@
 <p>
   <h3>📞 Contact</h3>
   <a href="https://t.me/pend0s"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
-  <a href="mailto:djvlad967891@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail&color=grey" /></a>
+  <a href="mailto:github.kan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail&color=grey" /></a>
 </p>
