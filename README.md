@@ -27,7 +27,7 @@
         <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thek4n&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
       </tr>
     </table>
-    <p align="center"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
+    <p align="center"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=00"></p>
   </details>
 </h3>
 
