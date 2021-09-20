@@ -19,14 +19,17 @@
 <h3>
   <details>
     <summary>GitHub Stats</summary>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=thek4n&label=Profile%20views&color=0e75b6&style=flat" alt="thek4n" /> </p>
     <table>
       <tr>
         <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=thek4n&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
         <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thek4n&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      </tr>   
+      </tr>
     </table>
+    <p align="center"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
   </details>
 </h3>
+
 
 
 ### 💲 Donate
