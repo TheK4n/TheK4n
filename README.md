@@ -14,6 +14,7 @@
   <img alt="qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />  
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="kalinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
+  <img alt="vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
 </p>
 
 <h3>
