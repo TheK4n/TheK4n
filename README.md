@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
 
 <p>
-  <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
