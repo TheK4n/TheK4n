@@ -10,13 +10,14 @@
 </p>
 
 <p>
-  <img alt="docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" /> 
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />  
-  <img alt="arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="kalinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
-  <img alt="vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />  
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
 </p>
 
 <h3>
@@ -36,10 +37,6 @@
 </h3>
 
 
-
-<h3>💲 Donate</h3>
-
-<a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
 
 <h3>📞 Contact</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
