@@ -5,7 +5,7 @@
 Beginner 🐍python developer from Russia
 
 
-<h3>Technologies & Tools</h3>
+<h3>🔧 Technologies & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/OS-Kali Linux-informational?style=flat-square&logo=kali%20linux&logoColor=white&color=5194f0&bgcolor=110d17" />
@@ -20,7 +20,7 @@ Beginner 🐍python developer from Russia
 </p>
 
 
-<h3>Languages & Frameworks</h3>
+<h4>Languages & Frameworks</h4>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-dc4731?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-005ae0?style=flat-square&logo=css3&logoColor=white" />
@@ -31,7 +31,7 @@ Beginner 🐍python developer from Russia
 </p>
 
 
-<h3>Databases</h3>
+<h4>Databases</h4>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
@@ -54,10 +54,13 @@ Beginner 🐍python developer from Russia
 </details>
 </h3>
 
-<h3>Donate</h3>
 
+<h3>Donate</h3>
 <a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
 
-<h3>Contact me</h3>
+
+<h3>📞 Contact me</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
 <a href="mailto:github.kan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail&color=grey" /></a>
+<a href="https://discord.gg/BmuCEZ6Ma7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord&color=grey" /></a>
+
