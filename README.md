@@ -20,7 +20,7 @@ Beginner 🐍python developer from Russia
 </p>
 
 
-<h4>Languages & Frameworks</h4>
+<h3>Languages & Frameworks</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-dc4731?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-005ae0?style=flat-square&logo=css3&logoColor=white" />
@@ -31,7 +31,7 @@ Beginner 🐍python developer from Russia
 </p>
 
 
-<h4>Databases</h4>
+<h3>Databases</h3>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
