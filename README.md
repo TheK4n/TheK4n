@@ -8,7 +8,7 @@ Beginner 🐍python developer from Russia
 <h3>🔧 Technologies & Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-Kali Linux-informational?style=flat-square&logo=kali%20linux&logoColor=white&color=5194f0&bgcolor=110d17" />
+  <img src="https://img.shields.io/badge/OS-Manjaro-informational?style=flat-square&logo=manjaro&logoColor=white&color=5194f0&bgcolor=110d17" />
   <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=5194f0" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
 </p>
