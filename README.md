@@ -17,6 +17,7 @@ Beginner 🐍python developer from Russia
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
+  <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
 </p>
 
 
