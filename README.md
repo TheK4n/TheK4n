@@ -4,8 +4,8 @@
 <h3>🔧 Technologies & Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17" />
-  <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=5194f0" />
+  <img src="https://img.shields.io/badge/OS-Arch-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
 </p>
 
