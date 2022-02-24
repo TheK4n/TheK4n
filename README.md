@@ -11,9 +11,9 @@ Beginner 🐍python developer from Russia
 <h3>🔧 Technologies & Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
+  <img alt="ArchLinux" src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0" />
+  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
 </p>
 
 <p>
@@ -47,14 +47,14 @@ Beginner 🐍python developer from Russia
 <details>
   <summary>GitHub Stats</summary>
   <p></p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thek4n&label=Profile%20views&color=0e75b6&style=flat" alt="thek4n" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thek4n&label=Profile%20views&color=0e75b6&style=flat" alt="TheK4n" /> </p>
   <table align="center">
     <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=thek4n&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thek4n&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img alt="github stats" width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=thek4n&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img alt="github stats" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thek4n&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
     </tr>
   </table>
-  <p align="center"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
+  <p align="center"><img alt="github streak" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
   
 </details>
 </h3>
