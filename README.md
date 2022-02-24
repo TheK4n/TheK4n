@@ -1,9 +1,6 @@
 
 <h2 align="center">Kan GitHub</h2>
 
-<h3>About me</h3>
-Beginner 🐍python developer from Russia
-
 
 <img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" />
 
@@ -66,6 +63,6 @@ Beginner 🐍python developer from Russia
 
 <h3>📞 Contact me</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
-<a href="mailto:thek4n@yandex.ru"><img src="https://img.shields.io/badge/-Mail-5194f0?style=flat-square&logo=Yandex&color=grey" /></a>
+<a href="mailto:thek4n@yandex.ru"><img src="https://img.shields.io/badge/-Mail-5194f0?style=flat-square&color=grey" /></a>
 <a href="https://discord.gg/BmuCEZ6Ma7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord&color=grey" /></a>
 
