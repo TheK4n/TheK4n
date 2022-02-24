@@ -5,7 +5,7 @@
 Beginner 🐍python developer from Russia
 
 
-<img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" />
+<a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
 
 
 <h3>🔧 Technologies & Tools</h3>
