@@ -63,6 +63,6 @@ Beginner 🐍python developer from Russia
 
 <h3>📞 Contact me</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
-<a href="mailto:github.kan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5194f0?style=flat-square&logo=Gmail&color=grey" /></a>
+<a href="mailto:thek4n@yandex.ru"><img src="https://img.shields.io/badge/-Mail-5194f0?style=flat-square&logo=Yandex&color=grey" /></a>
 <a href="https://discord.gg/BmuCEZ6Ma7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord&color=grey" /></a>
 
