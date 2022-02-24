@@ -1,24 +1,44 @@
 
 <h2 align="center">Kan GitHub</h2>
 
+
+<img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" />
+
+
 <h3>🔧 Technologies & Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-Arch-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
+  <img src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
   <img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
 </p>
 
 <p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
+  <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
+</p>
+
+
+<h4>Languages & Frameworks</h4>
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-dc4731?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-005ae0?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-fad74d?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-163e2f?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />
+</p>
+
+
+<h4>Databases</h4>
+<p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />  
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-599636?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
 
 <h3>
 <details>
@@ -37,8 +57,12 @@
 </h3>
 
 
+<h3>Donate</h3>
+<a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
 
-<h3>📞 Contact</h3>
+
+<h3>📞 Contact me</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
 <a href="mailto:thek4n@yandex.ru"><img src="https://img.shields.io/badge/-Mail-5194f0?style=flat-square&color=grey" /></a>
 <a href="https://discord.gg/BmuCEZ6Ma7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord&color=grey" /></a>
+
