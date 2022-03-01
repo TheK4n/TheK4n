@@ -2,7 +2,7 @@
 <h2 align="center">Kan GitHub</h2>
 
 <h3>About me</h3>
-Beginner 🐍python developer from Russia
+🐍Python developer
 
 
 <a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
