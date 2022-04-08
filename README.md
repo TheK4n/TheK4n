@@ -40,6 +40,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-599636?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-a41a11?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 
