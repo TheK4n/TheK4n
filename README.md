@@ -21,6 +21,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=green" />
   <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kali%20linux&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C8F49?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 
@@ -37,7 +38,6 @@
 
 <h4>Databases</h4>
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d6586?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-599636?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-a41a11?style=flat-square&logo=redis&logoColor=white" />
