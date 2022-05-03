@@ -2,7 +2,7 @@
 <h2 align="center">Kan GitHub</h2>
 
 <h3>About me</h3>
-🐍Python developer
+🐍Python developer and Cyber Security specialist
 
 
 <a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
