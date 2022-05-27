@@ -29,6 +29,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-005ae0?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-fad74d?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Django" src="https://img.shields.io/badge/Django-163e2f?style=flat-square&logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-047369?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />
 </p>
