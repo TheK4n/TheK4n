@@ -22,6 +22,12 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C8F49?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
+<p>
+  <img alt="PyTest" src="https://img.shields.io/badge/PyTest-FFFFFF?style=flat-square&logo=pytest&logoColor=grey" />
+  <img alt="MyPy" src="https://img.shields.io/badge/MyPy-1C4268?style=flat-square&logo=mypy&logoColor=white" />
+  <img alt="Flake8" src="https://img.shields.io/badge/Flake8-CCA32F?style=flat-square&logo=flake8&logoColor=white" />
+</p>
+
 
 <h4>Languages & Frameworks</h4>
 <p>
