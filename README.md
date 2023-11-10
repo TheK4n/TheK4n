@@ -1,8 +1,8 @@
 
-<h2 align="center">Kan GitHub</h2>
+<h2 align="center">Thek4n GitHub</h2>
 
 <h3>About me</h3>
-🐍Python & Rust developer and Cyber Security specialist
+🐍Embedded developer and Cyber Security specialist
 
 
 <a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
@@ -61,12 +61,11 @@
     </tr>
   </table>
   <p align="center"><img alt="github streak" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
-  
 </details>
 </h3>
 
 
-<h3>Donate</h3>
+<h3>Buy me coffee</h3>
 <a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
 
 
