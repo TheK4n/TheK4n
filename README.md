@@ -65,12 +65,7 @@
 </h3>
 
 
-<h3>Buy me coffee</h3>
-<a href="https://qiwi.com/n/THREA793"><img src="https://img.shields.io/badge/Qiwi-informational?style=flat-square&logo=qiwi&logoColor=&color=grey&bgcolor=110d17" /></a>
-
 
 <h3>📞 Contact me</h3>
 <a href="https://t.me/thek4n"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram&color=grey" /></a>
 <a href="mailto:thek4n@yandex.ru"><img src="https://img.shields.io/badge/-Mail-5194f0?style=flat-square&logo=gmail&color=grey" /></a>
-<a href="https://discord.gg/BmuCEZ6Ma7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord&color=grey" /></a>
-
