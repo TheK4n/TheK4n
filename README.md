@@ -1,5 +1,5 @@
 
-<h2 align="center">Thek4n GitHub</h2>
+<h2 align="center">Kan Vladislav</h2>
 
 Embedded developer
 
