@@ -2,51 +2,10 @@
 <h2 align="center">Thek4n GitHub</h2>
 
 <h3>About me</h3>
-🐍Embedded developer and Cyber Security specialist
+🐍Embedded developer
 
 
 <a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
-
-
-<h3>🔧 Technologies & Tools</h3>
-
-<p>
-  <img alt="ArchLinux" src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=archlinux&logoColor=white&color=5194f0&bgcolor=110d17" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0" />
-  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0" />
-</p>
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-219bea?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C8F49?style=flat-square&logo=nginx&logoColor=white" />
-</p>
-
-<p>
-  <img alt="PyTest" src="https://img.shields.io/badge/PyTest-FFFFFF?style=flat-square&logo=pytest&logoColor=grey" />
-  <img alt="MyPy" src="https://img.shields.io/badge/MyPy-1C4268?style=flat-square&logo=mypy&logoColor=white" />
-  <img alt="Flake8" src="https://img.shields.io/badge/Flake8-CCA32F?style=flat-square&logo=flake8&logoColor=white" />
-</p>
-
-
-<h4>Languages & Frameworks</h4>
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-dc4731?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-005ae0?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-fad74d?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-163e2f?style=flat-square&logo=django&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-047369?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-30a086?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-56ca5b?style=flat-square&logo=qt&logoColor=white" />
-</p>
-
-
-<h4>Databases</h4>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-33698f?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-599636?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-a41a11?style=flat-square&logo=redis&logoColor=white" />
-</p>
 
 
 <h3>
