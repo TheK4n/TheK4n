@@ -4,10 +4,6 @@
 <h3>About me</h3>
 🐍Embedded developer
 
-
-<a href="https://www.codewars.com/users/TheK4n"><img alt="CodeWars" src="https://www.codewars.com/users/TheK4n/badges/small" /></a>
-
-
 <h3>
 <details>
   <summary>GitHub Stats</summary>
