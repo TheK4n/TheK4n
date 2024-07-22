@@ -1,8 +1,7 @@
 
 <h2 align="center">Thek4n GitHub</h2>
 
-<h3>About me</h3>
-🐍Embedded developer
+Embedded developer
 
 <h3>
 <details>
