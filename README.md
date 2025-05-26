@@ -1,7 +1,7 @@
 
-<h2 align="center">Kan Vladislav</h2>
+<h2 align="center">Vladislav Kan</h2>
 
-Embedded developer
+Software Engineer
 
 <h3>
 <details>
