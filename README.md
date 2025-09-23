@@ -70,5 +70,3 @@
   <p align="center"><img alt="github streak" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
 </details>
 </h3>
-
----
