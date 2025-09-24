@@ -24,6 +24,14 @@
 
 ---
 
+### :pick: What I've been working on
+
+- [thek4n/paste.thek4n.ru](https://github.com/thek4n/paste.thek4n.ru)
+- [thek4n/note](https://github.com/thek4n/note)
+
+
+---
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -43,15 +51,15 @@
 ### :telephone_receiver: Contact me
 
 <a href="https://www.linkedin.com/in/thek4n">
-  <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=25 width=80></a>
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge" height=25 width=80></a>
 <br>
 
 <a href="https://t.me/thek4n">
-  <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge" height=25 width=80></a>
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=black" alt="Telegram Badge" height=25 width=80></a>
 <br>
 
 <a href="mailto:thek4n@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" height=25 width=80></a>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Mail Badge" height=25 width=80></a>
 
 
 ---
