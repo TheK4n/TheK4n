@@ -14,26 +14,27 @@
 
 ---
 
-### :computer: About me
 
+### :computer: About me
 - I am a Software Engineer :man_technologist:.
 
 - I'm working on developing of various IT products from embedded :gear: to web :globe_with_meridians:
 
 - I enjoy reading different tech articles and books :blue_book:
 
+
 ---
 
-### :pick: What I've been working on
 
+### :pick: What I've been working on
 - [thek4n/paste.thek4n.ru](https://github.com/thek4n/paste.thek4n.ru)
 - [thek4n/note](https://github.com/thek4n/note)
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
 
+### :hammer_and_wrench: Languages and Tools
 <div>
   <a href="https://go.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
@@ -46,10 +47,11 @@
   <a href="https://git-scm.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
 </div>
 
+
 ---
 
-### :telephone_receiver: Contact me
 
+### :telephone_receiver: Contact me
 <a href="https://www.linkedin.com/in/thek4n">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge" height=25 width=80></a>
 <br>
@@ -64,6 +66,7 @@
 
 ---
 
+
 <h3>
 <details>
   <summary>:fire: GitHub Stats</summary>
@@ -75,6 +78,5 @@
       <td><img alt="github stats" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thek4n&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
     </tr>
   </table>
-  <p align="center"><img alt="github streak" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TheK4n&theme=dark&hide_border=true&background=080e16"></p>
 </details>
 </h3>
