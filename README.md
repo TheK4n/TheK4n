@@ -27,8 +27,8 @@
 
 
 ### :pick: What I've been working on
-- [thek4n/paste.thek4n.ru](https://github.com/thek4n/paste.thek4n.ru)
-- [thek4n/note](https://github.com/thek4n/note)
+- [thek4n/paste.thek4n.ru](https://github.com/thek4n/paste.thek4n.ru) - Copy/paste and url shortener web service
+- [thek4n/note](https://github.com/thek4n/note) - Simple notes storage mechanism with convenient CLI
 
 
 ---
