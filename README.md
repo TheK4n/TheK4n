@@ -67,6 +67,15 @@
 ---
 
 
+### :coffee: Buy me a coffee
+
+<a href="https://www.blockchain.com/btc/address/bc1qgh2fyzqgyxgpstsmqwxyev2luzx7hwc4ezq03u">
+    <img src="https://img.shields.io/badge/Bitcoin-ff9416?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"></a>
+
+
+---
+
+
 <h3>
 <details>
   <summary>:fire: GitHub Stats</summary>
