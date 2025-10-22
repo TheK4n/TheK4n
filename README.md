@@ -69,7 +69,7 @@
 
 ### :coffee: Buy me a coffee
 
-<a href="https://www.blockchain.com/btc/address/bc1qgh2fyzqgyxgpstsmqwxyev2luzx7hwc4ezq03u">
+<a href="https://www.blockchain.com/btc/address/bc1qs9nnzzfz53vqp7dmzknh60m96rd0ajc5m70asu">
     <img src="https://img.shields.io/badge/Bitcoin-ff9416?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"></a>
 
 
